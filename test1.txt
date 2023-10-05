@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D6A7-C986
+
+ Directory of C:\Users\anupr\OneDrive\Desktop\My Project
+
+2023-10-05  11:59 AM    <DIR>          .
+2023-10-05  11:52 AM    <DIR>          ..
+2023-10-05  02:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  55,581,687,808 bytes free
